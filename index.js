@@ -6,5 +6,6 @@ window.onload = function() {
     btn.addEventListener('click', function() {
         console.log('创建一个Git仓库');
         alert('创建一个Git仓库')
+		console.log('修改了内容')
     })
 }
